@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+#page {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#data {
+  min-height: 600px;
+}
